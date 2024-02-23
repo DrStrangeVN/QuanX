@@ -58,7 +58,8 @@ xxxx, tag=🆅🅸🅴 🅵🅰🆂🆃, img-url=link.circle.fill.system, update
 
 
 [filter_remote]
-
+https://raw.githubusercontent.com/DrStrangeVN/QuanX/main/Rule_lite.conf, tag=𝗔𝗗𝗦 𝗕𝗟𝗢𝗖𝗞 𝗟𝗜𝗧𝗘, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/DrStrangeVN/Rule/main/Quanx_Rule_All.conf, tag=𝗔𝗗𝗕𝗟𝗢𝗖𝗞, update-interval=604800, opt-parser=false, enabled=false
 
 
 [rewrite_remote]
